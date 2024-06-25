@@ -48,11 +48,11 @@ Note: This is basic Backend Setup, it is not complete and requires more function
 
 ### Usage
 
-The application provides the following endpoints:
+Now we can make APIs according to our needs:
 
-- `GET /api/users` - Retrieve all users
-- `GET /api/users/:id` - Retrieve a user by ID
-- `POST /api/users` - Create a new user
-- `PUT /api/users/:id` - Update a user by ID
-- `DELETE /api/users/:id` - Delete a user by ID
+- `GET /worko/users` - Retrieve all users
+- `GET /worko/users/:id` - Retrieve a user by ID
+- `POST /worko/users` - Create a new user
+- `PUT /worko/users/:id` - Update a user by ID
+- `DELETE /worko/users/:id` - Delete a user by ID
 
