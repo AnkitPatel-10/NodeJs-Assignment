@@ -22,12 +22,7 @@ Note: This is basic Backend Setup, it is not complete and requires more function
 
 ### Installation
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/my-nodejs-app.git
-    cd my-nodejs-app
-    ```
+1. Clone the repository
 
 2. Install dependencies:
 
@@ -35,12 +30,7 @@ Note: This is basic Backend Setup, it is not complete and requires more function
     npm install
     ```
 
-3. Create a `.env` file in the root directory and add your MongoDB URI and port:
-
-    ```
-    MONGO_URI=mongodb://localhost:27017/myapp
-    PORT=3000
-    ```
+3. Create a `.env` file in the root directory and add your MongoDB URI and port
 
 ### Build and Run
 
