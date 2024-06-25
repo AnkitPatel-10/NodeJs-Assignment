@@ -2,6 +2,8 @@
 
 This is a Node.js application built using the MVC (Model-View-Controller) architecture. The application uses Express for the server, Mongoose for MongoDB interaction, and dotenv for environment variable management.
 
+Note: This is basic Backend Setup, it is not complete and requires more functionalities, routes, schemas,etc.
+
 ## Features
 
 - MVC architecture for clear separation of concerns
