@@ -15,7 +15,7 @@ mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopol
 app.use(bodyParser.json());
 
 // Use user routes
-app.use('/api', userRoutes);
+app.use('/worko', userRoutes);
 
 // Start the server
 const port = process.env.PORT || 3000;
